@@ -1,0 +1,6 @@
+issue,vendor_count,pct_of_active
+Active vendors (denominator),3504,100.0
+Never-paid active (no AP lines),561,16.0
+Foreign default address (active),207,5.9
+Cross-entity open/closed gap,118,3.4
+Near-duplicate vendor names,52,1.5
